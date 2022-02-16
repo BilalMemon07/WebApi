@@ -14,5 +14,8 @@ namespace WebApi2.context
 
         }
         public DbSet<studentModel> Students { get; set; }
+
+        public DbSet<RegisterModel> Register { get; set; }
+        //public DbSet<LoginModel> Login { get; set; }
     }
 }

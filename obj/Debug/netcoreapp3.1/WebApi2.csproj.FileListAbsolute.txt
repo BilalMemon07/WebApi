@@ -24,7 +24,6 @@ E:\WebApi2\WebApi2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 E:\WebApi2\WebApi2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\WebApi2\WebApi2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 E:\WebApi2\WebApi2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.csproj.AssemblyReference.cache
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.GeneratedMSBuildEditorConfig.editorconfig
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.AssemblyInfoInputs.cache
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.AssemblyInfo.cs
@@ -38,3 +37,4 @@ E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.csproj.CopyComplete
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.dll
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.pdb
 E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.genruntimeconfig.cache
+E:\WebApi2\WebApi2\obj\Debug\netcoreapp3.1\WebApi2.csproj.AssemblyReference.cache

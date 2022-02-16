@@ -33,9 +33,10 @@ namespace WebApi2.Controllers
         public async Task<ActionResult<studentModel>> GetStudent(int id)
         {
             var stud = await _context.Students.FindAsync(id);
-
+             
             if (stud == null)
             {
+              
                 return NotFound();
             }
 
@@ -51,7 +52,7 @@ namespace WebApi2.Controllers
             student.id = id;
 
             _context.Entry(student).State = EntityState.Modified;
-
+            
             try
             {
                 await _context.SaveChangesAsync();
